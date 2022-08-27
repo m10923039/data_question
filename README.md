@@ -10,3 +10,4 @@ data_question
 | submission.csv            | test.csv輸出檔案                                                                                                                                   |
 | test.csv                  | test dataset                                                                                                                                       |
 | train.csv                 | train dataset                                                                                                                                      |
+| 加分題.pdf                 | 加分題簡述                                                                                         |
